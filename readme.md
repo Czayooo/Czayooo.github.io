@@ -1,2 +1,2 @@
-# O Mnie 
-Projekty strony na której możesz mnie poznać :)
+# O mnie 
+Projekty strony na której możesz mnie poznać  :)
